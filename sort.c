@@ -10,3 +10,9 @@ void sort(int *list, int size) {
         }
     }
 }
+
+
+int main() {
+    int a[] = {4, 2};
+    sort(a, 3);
+}
